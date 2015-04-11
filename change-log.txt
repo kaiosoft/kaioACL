@@ -1,0 +1,9 @@
+Upgrade Kaio ACL 
+=======================
+Username & paswd login : superadmin
+
+Versi 1.2
+
+change log :
+- Menggunakan Modular Extensions - HMVC 
+- Model seting di hapus dan di gabungkan ke config model

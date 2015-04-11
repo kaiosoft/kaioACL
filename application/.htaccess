@@ -1,0 +1,4 @@
+
+RewriteRule ^css/(.*)$ application/views/templates/default/css/$1 [L]
+RewriteRule ^js/(.*)$ application/views/templates/default/js/$1 [L]
+RewriteRule ^images/(.*)$ application/views/templates/default/images/$1 [L]
