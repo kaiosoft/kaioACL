@@ -1,5 +1,5 @@
 # kaioACL
-Kaio ACL developed from framework Code Igniter 2.13. Created with the aim to facilitate and cut the time of making the application.
+Kaio ACL developed from framework Code Igniter 2.13. Created with the aim to facilitate and cut the time of making the application. Built for developers who need a simple tools
 
 # Features
 * User management
