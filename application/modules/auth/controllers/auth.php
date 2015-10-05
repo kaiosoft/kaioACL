@@ -4,7 +4,7 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 /**
  *	Copyright (C) Kaio Piranti Lunak
  *	Developer: Fatah Iskandar Akbar
- *  Email : kaiosoftware@gmail.com
+ *      Email : kaiosoftware@gmail.com
  *	Date: Juni 2012
 **/
 
