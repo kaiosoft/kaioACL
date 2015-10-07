@@ -22,8 +22,8 @@ if ( ! function_exists('waktu'))
 	*
 	*/
 	
+
 	function waktu($datestr='', $frm_in='eng', $frm_out='indo', $spr_in = '-', $spr_out='-', $time='N'){
-		
 		// validasi tgl 
 		if ($datestr == ''){
 			$datestr = 'Tgl tidak di definisikan !';
@@ -33,6 +33,7 @@ if ( ! function_exists('waktu'))
 				$tgl = substr($datestr,8,2);
 				$bln = substr($datestr,5,2);
 				$thn = substr($datestr,0,4);
+
 				$waktu = '';
 				
 				if($time=='Y'){
@@ -48,6 +49,7 @@ if ( ! function_exists('waktu'))
 				$tgl = substr($datestr,0,2);
 				$bln = substr($datestr,3,2);
 				$thn = substr($datestr,6,4);
+
 				$waktu = '';
 				
 				if($time=='Y'){
